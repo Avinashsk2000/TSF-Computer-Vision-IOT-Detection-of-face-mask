@@ -1,7 +1,7 @@
 # TSF-Computer-Vision-IOT--Detection-of-face-mask
 
 Firstly install the modules given in the code with pip.
-then download the dataset whose link is given in the files.
+then download the dataset whose link is given in the file.
 
 
 Run the First part of code by giving dataset path and train the model,
